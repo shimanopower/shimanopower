@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Tristan. I'm an iOS Developer. 
+👋 Hi, my name is Tristan. I'm an iOS Developer. 
 
 <!---
 shimanopower/shimanopower is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
